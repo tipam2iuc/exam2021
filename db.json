@@ -2,10 +2,278 @@
   "planning": [
     {
       "id": 1,
-      "title": "tipam"
+      "date": {
+        "jourSemaine": "Lundi",
+        "mois": "Avril",
+        "jourMois": 26,
+        "annee": 2021
+      },
+      "cours": [
+        {
+          "horaireDebut": "08:00",
+          "horaireFin": "09:45",
+          "intituleCours": "Dév. Multiplateformes",
+          "chapitrePrevu": "Chapitre 1 : Introduction",
+          "lieuCours": "Salle CE.234 / Campus 1",
+          "enseignant": {
+            "nomAffichage": "M. Tchana Willy",
+            "photoProfil": "https://i.pravatar.cc/150?img=51"
+          }
+        },
+        {
+          "horaireDebut": "10:00",
+          "horaireFin": "12:00",
+          "intituleCours": "Dév. Multiplateformes",
+          "chapitrePrevu": "Chapitre 1 : Introduction",
+          "lieuCours": "Salle CE.234 / Campus 1",
+          "enseignant": {
+            "nomAffichage": "M. Tchana Willy",
+            "photoProfil": "https://i.pravatar.cc/150?img=51"
+          }
+        },
+        {
+          "horaireDebut": "13:00",
+          "horaireFin": "14:45",
+          "intituleCours": "Dév. Multiplateformes",
+          "chapitrePrevu": "Chapitre 1 : Introduction",
+          "lieuCours": "Salle CE.234 / Campus 1",
+          "enseignant": {
+            "nomAffichage": "M. Tchana Willy",
+            "photoProfil": "https://i.pravatar.cc/150?img=64"
+          }
+        },
+        {
+          "horaireDebut": "15:00",
+          "horaireFin": "17:00",
+          "intituleCours": "Dév. Multiplateformes",
+          "chapitrePrevu": "Chapitre 1 : Introduction",
+          "lieuCours": "Salle CE.234 / Campus 1",
+          "enseignant": {
+            "nomAffichage": "M. Tchana Willy",
+            "photoProfil": "https://i.pravatar.cc/150?img=64"
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "date": {
+        "jourSemaine": "Mardi",
+        "mois": "Avril",
+        "jourMois": 27,
+        "annee": 2021
+      },
+      "cours": [
+        {
+          "horaireDebut": "08:00",
+          "horaireFin": "09:45",
+          "intituleCours": "Dév. Multiplateformes",
+          "chapitrePrevu": "Chapitre 1 : Introduction",
+          "lieuCours": "Salle CE.234 / Campus 1",
+          "enseignant": {
+            "nomAffichage": "M. Tchana Willy",
+            "photoProfil": "https://i.pravatar.cc/150?img=51"
+          }
+        },
+        {
+          "horaireDebut": "10:00",
+          "horaireFin": "12:00",
+          "intituleCours": "Dév. Multiplateformes",
+          "chapitrePrevu": "Chapitre 1 : Introduction",
+          "lieuCours": "Salle CE.234 / Campus 1",
+          "enseignant": {
+            "nomAffichage": "M. Tchana Willy",
+            "photoProfil": "https://i.pravatar.cc/150?img=51"
+          }
+        },
+        {
+          "horaireDebut": "13:00",
+          "horaireFin": "14:45",
+          "intituleCours": "Programmation Web côté serveur",
+          "chapitrePrevu": "Chapitre 2 : Architecture d'un serveur web",
+          "lieuCours": "Salle CE.234 / Campus 1",
+          "enseignant": {
+            "nomAffichage": "M. ONDAPHE Chritian Arthur",
+            "photoProfil": "https://i.pravatar.cc/150?img=13"
+          }
+        },
+        {
+          "horaireDebut": "15:00",
+          "horaireFin": "17:00",
+          "intituleCours": "Programmation Web côté serveur",
+          "chapitrePrevu": "Chapitre 2 : Architecture d'un serveur web",
+          "lieuCours": "Salle CE.234 / Campus 1",
+          "enseignant": {
+            "nomAffichage": "M. ONDAPHE Chritian Arthur",
+            "photoProfil": "https://i.pravatar.cc/150?img=13"
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "date": {
+        "jourSemaine": "Mercredi",
+        "mois": "Avril",
+        "jourMois": 28,
+        "annee": 2021
+      },
+      "cours": [
+        {
+          "horaireDebut": "08:00",
+          "horaireFin": "09:45",
+          "intituleCours": "Dév. Applications Mobiles sous Android",
+          "chapitrePrevu": "Chapitre 3 : Les activités",
+          "lieuCours": "Salle CE.234 / Campus 1",
+          "enseignant": {
+            "nomAffichage": "M. ESSONO ELLA Junior-steve",
+            "photoProfil": "https://i.pravatar.cc/150?img=7"
+          }
+        },
+        {
+          "horaireDebut": "10:00",
+          "horaireFin": "12:00",
+          "intituleCours": "Dév. Applications Mobiles sous Android",
+          "chapitrePrevu": "Chapitre 4 : Les Intents",
+          "lieuCours": "Salle CE.234 / Campus 1",
+          "enseignant": {
+            "nomAffichage": "M. ESSONO ELLA Junior-steve",
+            "photoProfil": "https://i.pravatar.cc/150?img=7"
+          }
+        },
+        {
+          "horaireDebut": "13:00",
+          "horaireFin": "14:45",
+          "intituleCours": "Programmation avancée Java",
+          "chapitrePrevu": "Chapitre 7 : Les objets distants",
+          "lieuCours": "Amphi 150 / Campus Annexe",
+          "enseignant": {
+            "nomAffichage": "M. NGUETCHUENG Francis",
+            "photoProfil": "https://i.pravatar.cc/150?img=64"
+          }
+        },
+        {
+          "horaireDebut": "15:00",
+          "horaireFin": "17:00",
+          "intituleCours": "Programmation avancée Java",
+          "chapitrePrevu": "Chapitre 7 : Les objets distants",
+          "lieuCours": "Amphi 150 / Campus Annexe",
+          "enseignant": {
+            "nomAffichage": "M. NGUETCHUENG Francis",
+            "photoProfil": "https://i.pravatar.cc/150?img=64"
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "date": {
+        "jourSemaine": "Jeudi",
+        "mois": "Avril",
+        "jourMois": 29,
+        "annee": 2021
+      },
+      "cours": [
+        {
+          "horaireDebut": "08:00",
+          "horaireFin": "09:45",
+          "intituleCours": "Dév. Applications Mobiles sous Android",
+          "chapitrePrevu": "Chapitre 3 : Les activités",
+          "lieuCours": "Salle CE.234 / Campus 1",
+          "enseignant": {
+            "nomAffichage": "M. ESSONO ELLA Junior-steve",
+            "photoProfil": "https://i.pravatar.cc/150?img=7"
+          }
+        },
+        {
+          "horaireDebut": "10:00",
+          "horaireFin": "12:00",
+          "intituleCours": "Dév. Applications Mobiles sous Android",
+          "chapitrePrevu": "Chapitre 4 : Les Intents",
+          "lieuCours": "Salle CE.234 / Campus 1",
+          "enseignant": {
+            "nomAffichage": "M. ESSONO ELLA Junior-steve",
+            "photoProfil": "https://i.pravatar.cc/150?img=7"
+          }
+        },
+        {
+          "horaireDebut": "13:00",
+          "horaireFin": "14:45",
+          "intituleCours": "Programmation Web côté serveur",
+          "chapitrePrevu": "Chapitre 2 : Architecture d'un serveur web",
+          "lieuCours": "Salle CE.234 / Campus 1",
+          "enseignant": {
+            "nomAffichage": "M. ONDAPHE Chritian Arthur",
+            "photoProfil": "https://i.pravatar.cc/150?img=13"
+          }
+        },
+        {
+          "horaireDebut": "15:00",
+          "horaireFin": "17:00",
+          "intituleCours": "Programmation Web côté serveur",
+          "chapitrePrevu": "Chapitre 2 : Architecture d'un serveur web",
+          "lieuCours": "Salle CE.234 / Campus 1",
+          "enseignant": {
+            "nomAffichage": "M. ONDAPHE Chritian Arthur",
+            "photoProfil": "https://i.pravatar.cc/150?img=13"
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "date": {
+        "jourSemaine": "Vendredi",
+        "mois": "Avril",
+        "jourMois": 30,
+        "annee": 2021
+      },
+      "cours": [
+        {
+          "horaireDebut": "08:00",
+          "horaireFin": "09:45",
+          "intituleCours": "Rédaction professionnelle",
+          "chapitrePrevu": "Chapitre 2 : La lettre de motivation",
+          "lieuCours": "Amphi théatre 500 / Campus 1",
+          "enseignant": {
+            "nomAffichage": "M. SIMO TAGNE Alain Bertrand",
+            "photoProfil": "https://i.pravatar.cc/150?img=70"
+          }
+        },
+        {
+          "horaireDebut": "10:00",
+          "horaireFin": "12:00",
+          "intituleCours": "Rédaction professionnelle",
+          "chapitrePrevu": "Chapitre 3 : Le CV",
+          "lieuCours": "Amphi théatre 500 / Campus 1",
+          "enseignant": {
+            "nomAffichage": "M. SIMO TAGNE Alain Bertrand",
+            "photoProfil": "https://i.pravatar.cc/150?img=70"
+          }
+        },
+        {
+          "horaireDebut": "13:00",
+          "horaireFin": "14:45",
+          "intituleCours": "Programmation Web côté serveur",
+          "chapitrePrevu": "Chapitre 2 : Architecture d'un serveur web",
+          "lieuCours": "Salle CE.234 / Campus 1",
+          "enseignant": {
+            "nomAffichage": "M. ONDAPHE Chritian Arthur",
+            "photoProfil": "https://i.pravatar.cc/150?img=13"
+          }
+        },
+        {
+          "horaireDebut": "15:00",
+          "horaireFin": "17:00",
+          "intituleCours": "Programmation Web côté serveur",
+          "chapitrePrevu": "Chapitre 2 : Architecture d'un serveur web",
+          "lieuCours": "Salle CE.234 / Campus 1",
+          "enseignant": {
+            "nomAffichage": "M. ONDAPHE Chritian Arthur",
+            "photoProfil": "https://i.pravatar.cc/150?img=13"
+          }
+        }
+      ]
     }
-  ],
-  "profile": {
-    "name": "tipam2021"
-  }
+  ]
 }
