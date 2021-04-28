@@ -1,5 +1,5 @@
 {
-  "planning": [
+  "currentWeek": [
     {
       "id": 1,
       "date": {
@@ -34,23 +34,23 @@
         {
           "horaireDebut": "13:00",
           "horaireFin": "14:45",
-          "intituleCours": "Dév. Multiplateformes",
+          "intituleCours": "Programmation Web côté serveur",
           "chapitrePrevu": "Chapitre 1 : Introduction",
           "lieuCours": "Salle CE.234 / Campus 1",
           "enseignant": {
-            "nomAffichage": "M. Tchana Willy",
-            "photoProfil": "https://i.pravatar.cc/150?img=64"
+            "nomAffichage": "M. ONDAPHE Chritian Arthur",
+            "photoProfil": "https://i.pravatar.cc/150?img=13"
           }
         },
         {
           "horaireDebut": "15:00",
           "horaireFin": "17:00",
-          "intituleCours": "Dév. Multiplateformes",
+          "intituleCours": "Programmation Web côté serveur",
           "chapitrePrevu": "Chapitre 1 : Introduction",
           "lieuCours": "Salle CE.234 / Campus 1",
           "enseignant": {
-            "nomAffichage": "M. Tchana Willy",
-            "photoProfil": "https://i.pravatar.cc/150?img=64"
+            "nomAffichage": "M. ONDAPHE Chritian Arthur",
+            "photoProfil": "https://i.pravatar.cc/150?img=13"
           }
         }
       ]
@@ -68,7 +68,7 @@
           "horaireDebut": "08:00",
           "horaireFin": "09:45",
           "intituleCours": "Dév. Multiplateformes",
-          "chapitrePrevu": "Chapitre 1 : Introduction",
+          "chapitrePrevu": "Chapitre 2 : Installation des environnements",
           "lieuCours": "Salle CE.234 / Campus 1",
           "enseignant": {
             "nomAffichage": "M. Tchana Willy",
@@ -79,7 +79,7 @@
           "horaireDebut": "10:00",
           "horaireFin": "12:00",
           "intituleCours": "Dév. Multiplateformes",
-          "chapitrePrevu": "Chapitre 1 : Introduction",
+          "chapitrePrevu": "Chapitre 2 : Installation des environnements",
           "lieuCours": "Salle CE.234 / Campus 1",
           "enseignant": {
             "nomAffichage": "M. Tchana Willy",
@@ -178,7 +178,7 @@
           "horaireDebut": "08:00",
           "horaireFin": "09:45",
           "intituleCours": "Dév. Applications Mobiles sous Android",
-          "chapitrePrevu": "Chapitre 3 : Les activités",
+          "chapitrePrevu": "Chapitre 4 : Les intents",
           "lieuCours": "Salle CE.234 / Campus 1",
           "enseignant": {
             "nomAffichage": "M. ESSONO ELLA Junior-steve",
@@ -189,7 +189,7 @@
           "horaireDebut": "10:00",
           "horaireFin": "12:00",
           "intituleCours": "Dév. Applications Mobiles sous Android",
-          "chapitrePrevu": "Chapitre 4 : Les Intents",
+          "chapitrePrevu": "Chapitre 5 : La persistance des données",
           "lieuCours": "Salle CE.234 / Campus 1",
           "enseignant": {
             "nomAffichage": "M. ESSONO ELLA Junior-steve",
@@ -254,26 +254,91 @@
         {
           "horaireDebut": "13:00",
           "horaireFin": "14:45",
-          "intituleCours": "Programmation Web côté serveur",
-          "chapitrePrevu": "Chapitre 2 : Architecture d'un serveur web",
+          "intituleCours": "Dév. Multiplateformes",
+          "chapitrePrevu": "Chapitre 1 : Introduction",
           "lieuCours": "Salle CE.234 / Campus 1",
           "enseignant": {
-            "nomAffichage": "M. ONDAPHE Chritian Arthur",
-            "photoProfil": "https://i.pravatar.cc/150?img=13"
+            "nomAffichage": "M. Tchana Willy",
+            "photoProfil": "https://i.pravatar.cc/150?img=64"
           }
         },
         {
           "horaireDebut": "15:00",
           "horaireFin": "17:00",
-          "intituleCours": "Programmation Web côté serveur",
-          "chapitrePrevu": "Chapitre 2 : Architecture d'un serveur web",
+          "intituleCours": "Dév. Multiplateformes",
+          "chapitrePrevu": "Chapitre 1 : Introduction",
           "lieuCours": "Salle CE.234 / Campus 1",
           "enseignant": {
-            "nomAffichage": "M. ONDAPHE Chritian Arthur",
-            "photoProfil": "https://i.pravatar.cc/150?img=13"
+            "nomAffichage": "M. Tchana Willy",
+            "photoProfil": "https://i.pravatar.cc/150?img=64"
           }
         }
       ]
+    },
+    {
+      "id": 6,
+      "date": {
+        "jourSemaine": "Samedi",
+        "mois": "Mai",
+        "jourMois": 1,
+        "annee": 2021
+      },
+      "cours": [
+        {
+          "horaireDebut": "08:00",
+          "horaireFin": "09:45",
+          "intituleCours": "Dév. Applications Mobiles sous Android",
+          "chapitrePrevu": "Chapitre 5 : La persistance des données",
+          "lieuCours": "Salle CE.234 / Campus 1",
+          "enseignant": {
+            "nomAffichage": "M. ESSONO ELLA Junior-steve",
+            "photoProfil": "https://i.pravatar.cc/150?img=7"
+          }
+        },
+        {
+          "horaireDebut": "10:00",
+          "horaireFin": "12:00",
+          "intituleCours": "Dév. Applications Mobiles sous Android",
+          "chapitrePrevu": "Chapitre 5 : La persistance des données",
+          "lieuCours": "Salle CE.234 / Campus 1",
+          "enseignant": {
+            "nomAffichage": "M. ESSONO ELLA Junior-steve",
+            "photoProfil": "https://i.pravatar.cc/150?img=7"
+          }
+        },
+        {
+          "horaireDebut": "13:00",
+          "horaireFin": "14:45",
+          "intituleCours": "Analyse des Systèmes d'informations 2",
+          "chapitrePrevu": "Chapitre 5 : Le diagramme de classe UML",
+          "lieuCours": "Salle CE.234 / Campus 1",
+          "enseignant": {
+            "nomAffichage": "M. ESSONO ELLA Junior-steve",
+            "photoProfil": "https://i.pravatar.cc/150?img=7"
+          }
+        },
+        {
+          "horaireDebut": "15:00",
+          "horaireFin": "17:00",
+          "intituleCours": "Analyse des Systèmes d'informations 2",
+          "chapitrePrevu": "Chapitre 5 : Le diagramme de classe UML",
+          "lieuCours": "Salle CE.234 / Campus 1",
+          "enseignant": {
+            "nomAffichage": "M. ESSONO ELLA Junior-steve",
+            "photoProfil": "https://i.pravatar.cc/150?img=7"
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "date": {
+        "jourSemaine": "Samedi",
+        "mois": "Mai",
+        "jourMois": 1,
+        "annee": 2021
+      },
+      "cours": []
     }
   ]
 }
