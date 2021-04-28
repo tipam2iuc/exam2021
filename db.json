@@ -16,7 +16,7 @@
           "chapitrePrevu": "Chapitre 1 : Introduction",
           "lieuCours": "Salle CE.234 / Campus 1",
           "enseignant": {
-            "nomAffichage": "M. Tchana Willy",
+            "nomAffichage": "M. TCHANA JOUNDA Willy Joel",
             "photoProfil": "https://i.pravatar.cc/150?img=51"
           }
         },
@@ -27,7 +27,7 @@
           "chapitrePrevu": "Chapitre 1 : Introduction",
           "lieuCours": "Salle CE.234 / Campus 1",
           "enseignant": {
-            "nomAffichage": "M. Tchana Willy",
+            "nomAffichage": "M. TCHANA JOUNDA Willy Joel",
             "photoProfil": "https://i.pravatar.cc/150?img=51"
           }
         },
@@ -71,7 +71,7 @@
           "chapitrePrevu": "Chapitre 2 : Installation des environnements",
           "lieuCours": "Salle CE.234 / Campus 1",
           "enseignant": {
-            "nomAffichage": "M. Tchana Willy",
+            "nomAffichage": "M. TCHANA JOUNDA Willy Joel",
             "photoProfil": "https://i.pravatar.cc/150?img=51"
           }
         },
@@ -82,7 +82,7 @@
           "chapitrePrevu": "Chapitre 2 : Installation des environnements",
           "lieuCours": "Salle CE.234 / Campus 1",
           "enseignant": {
-            "nomAffichage": "M. Tchana Willy",
+            "nomAffichage": "M. TCHANA JOUNDA Willy Joel",
             "photoProfil": "https://i.pravatar.cc/150?img=51"
           }
         },
@@ -195,28 +195,6 @@
             "nomAffichage": "M. ESSONO ELLA Junior-steve",
             "photoProfil": "https://i.pravatar.cc/150?img=7"
           }
-        },
-        {
-          "horaireDebut": "13:00",
-          "horaireFin": "14:45",
-          "intituleCours": "Programmation Web côté serveur",
-          "chapitrePrevu": "Chapitre 2 : Architecture d'un serveur web",
-          "lieuCours": "Salle CE.234 / Campus 1",
-          "enseignant": {
-            "nomAffichage": "M. ONDAPHE Chritian Arthur",
-            "photoProfil": "https://i.pravatar.cc/150?img=13"
-          }
-        },
-        {
-          "horaireDebut": "15:00",
-          "horaireFin": "17:00",
-          "intituleCours": "Programmation Web côté serveur",
-          "chapitrePrevu": "Chapitre 2 : Architecture d'un serveur web",
-          "lieuCours": "Salle CE.234 / Campus 1",
-          "enseignant": {
-            "nomAffichage": "M. ONDAPHE Chritian Arthur",
-            "photoProfil": "https://i.pravatar.cc/150?img=13"
-          }
         }
       ]
     },
@@ -258,7 +236,7 @@
           "chapitrePrevu": "Chapitre 1 : Introduction",
           "lieuCours": "Salle CE.234 / Campus 1",
           "enseignant": {
-            "nomAffichage": "M. Tchana Willy",
+            "nomAffichage": "M. TCHANA JOUNDA Willy Joel",
             "photoProfil": "https://i.pravatar.cc/150?img=64"
           }
         },
@@ -269,7 +247,7 @@
           "chapitrePrevu": "Chapitre 1 : Introduction",
           "lieuCours": "Salle CE.234 / Campus 1",
           "enseignant": {
-            "nomAffichage": "M. Tchana Willy",
+            "nomAffichage": "M. TCHANA JOUNDA Willy Joel",
             "photoProfil": "https://i.pravatar.cc/150?img=64"
           }
         }
@@ -300,28 +278,6 @@
           "horaireFin": "12:00",
           "intituleCours": "Dév. Applications Mobiles sous Android",
           "chapitrePrevu": "Chapitre 5 : La persistance des données",
-          "lieuCours": "Salle CE.234 / Campus 1",
-          "enseignant": {
-            "nomAffichage": "M. ESSONO ELLA Junior-steve",
-            "photoProfil": "https://i.pravatar.cc/150?img=7"
-          }
-        },
-        {
-          "horaireDebut": "13:00",
-          "horaireFin": "14:45",
-          "intituleCours": "Analyse des Systèmes d'informations 2",
-          "chapitrePrevu": "Chapitre 5 : Le diagramme de classe UML",
-          "lieuCours": "Salle CE.234 / Campus 1",
-          "enseignant": {
-            "nomAffichage": "M. ESSONO ELLA Junior-steve",
-            "photoProfil": "https://i.pravatar.cc/150?img=7"
-          }
-        },
-        {
-          "horaireDebut": "15:00",
-          "horaireFin": "17:00",
-          "intituleCours": "Analyse des Systèmes d'informations 2",
-          "chapitrePrevu": "Chapitre 5 : Le diagramme de classe UML",
           "lieuCours": "Salle CE.234 / Campus 1",
           "enseignant": {
             "nomAffichage": "M. ESSONO ELLA Junior-steve",
